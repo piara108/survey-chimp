@@ -10,7 +10,7 @@ This is a clone of the popular survey creation site [Survey Monkey](https://www.
 - SQLite3
 
 ### Team
-- Tanya
+- Tanya Prahbakar
 - Charlie Ward
 - Piara Sandhu
 - Edison Ocean Reef
