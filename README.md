@@ -1,7 +1,7 @@
 # Survey Chimp Clone
 
 ### Description
-This is a clone of the popular survey creation site [Survey Monkey](https://www.surveymonkey.com).
+This is a clone of the popular survey creation site [Survey Monkey](https://www.surveymonkey.com) written in Rails.
 
 ### Tech Stack
 - Sinatra
